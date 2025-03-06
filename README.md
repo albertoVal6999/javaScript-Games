@@ -1,2 +1,3 @@
-# javaScript Games
-Simple games built using javascript
+# Rock Paper Scissor
+
+Live link: https://rock-paper-scissorr.netlify.app/
